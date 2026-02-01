@@ -16,10 +16,6 @@ The goal of this homework is to extend the existing Kestra workflows to process 
 │   ├── yellow_taxi_flow.yml
 │   ├── green_taxi_flow.yml
 │   └── backfill_2021.yml
-├── screenshots/
-│   ├── yellow_2020_12_file_size.png
-│   ├── row_counts_2020.png
-│   └── march_2021_rows.png
 ├── README.md
 ```
 
